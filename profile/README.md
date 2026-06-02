@@ -8,20 +8,25 @@
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| [openads-project.github.io](https://github.com/openads-project/openads-project.github.io) | Documentation of the OpenADS ecosystem, including automated driving software stack, simulation and development toolchain, hosted as [GitHub Page](https://openads-project.github.io) | 🚧 Under Construction |
+| [openads-project.github.io](https://github.com/openads-project/openads-project.github.io) | [**Documentation of the OpenADS ecosystem**](https://openads-project.github.io), including automated driving software stack, simulation and development toolchain. | 🚧 Under Construction |
 | [tutorial-itsc-26](https://github.com/openads-project/tutorial-itsc-26) | [Website](https://openads-project.github.io/tutorial-itsc-26/) for OpenADS tutorial on IEEE ITSC 2026 in Naples, Italy. | ✅ Active |
 
 ## OpenADStack - The Automated Driving Stack
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| []() |  | 🚧 Under Construction |
+| [openadstack](https://github.com/openads-project/openadstack) | Full AD stack compositions for different use cases | 🚧 Under Construction |
 
 ### Perception
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| [openadstack](https://github.com/openads-project/openadstack) | Full AD stack compositions for different use cases | 🚧 Under Construction |
+| [point_cloud_fusion]() | GPU-accelerated (early) fusion of point clouds from multiple (lidar) sensors. | 📋 Planned |
+| [point_cloud_object_detection]() | ML-based 3D object detection in lidar point clouds, which is trained, e.g., on the DrivIng dataset | 📋 Planned |
+| [point_cloud_object_clustring]() | clusters object points (e.g. vehicles/pedestrians) for visualization in HMI | 📋 Planned |
+| [autoware_ground_segmentation_cuda]() | GPU-accelerated whitebox (non-AI) ground filter for lidar point clouds, could be part of a (non-AI) safety layer | 📋 Planned |
+| []() |  | 📋 Planned |
+| [traffic_light_detection]() | Detect location and state of traffic lights using YOLOv5. | 📋 Planned |
 
 ### Understanding
 
