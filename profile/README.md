@@ -52,15 +52,14 @@
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| [openadsim]() |  | 🚧 Under Construction |
-| [carla-simulator]() |  | 🚧 Under Construction |
-| [carla-ros-bridge]() |  | 🚧 Under Construction |
-| [carla-scenario-runner]() |  | 🚧 Under Construction |
-| [carla_scenario_runner_ros]() |  | 🚧 Under Construction |
-| [middleware-bridge]() |  | 🚧 Under Construction |
-| [carla_converter]() |  | 🚧 Under Construction |
-| [sumo_converter]() |  | 🚧 Under Construction |
-| [simulation_adapter]() |  | 🚧 Under Construction |
+| [openadsim]() | Simulation environment for running and testing OpenADStack with CARLA or SUMO. | 🚧 Under Construction |
+| [carla-simulator]() | High-fidelity rendering and physics backend based on CARLA for closed-loop sensor and vehicle simulation. | 🚧 Under Construction |
+| [carla-ros-bridge]() | ROS 2 connection to CARLA topics, services, exposing simulator state and controls to the OpenADS ecosystem. | 🚧 Under Construction |
+| [carla-scenario-runner]() | Execution of OpenSCENARIO scenarios in CARLA for repeatable scenario-based simulation and testing. | 🚧 Under Construction |
+| [ros_middleware_bridge]() | DDS-to-Zenoh bridge that connects CARLA native ROS communication with the OpenADStack middleware. | 🚧 Under Construction |
+| [carla_converter]() | Conversion of CARLA-specific simulation outputs into OpenADS-compatible ego, object, map, and V2X topics. | 🚧 Under Construction |
+| [sumo_converter]() | Conversion of SUMO traffic simulation data into OpenADS-compatible ego, object, and map topics. | 🚧 Under Construction |
+| [simulation_adapter]() | Backend-independent adapter that normalizes simulator outputs and connects OpenADStack. | 🚧 Under Construction |
 
 ## OpenADSuite - The Development Suite
 
