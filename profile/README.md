@@ -36,6 +36,8 @@
 | ---------- | ----------- | ------ |
 | [openadstack](https://github.com/openads-project/openadstack) | Full stack compositions for different automated driving use cases | 🚧 Under Construction |
 
+### OpenADServices - Modular Functional Building Blocks for Full-Stack Compositions
+
 #### Perception
 
 | Repository | Description | Status |
