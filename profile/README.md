@@ -4,20 +4,39 @@
 
 ![OpenADS diagram](../assets/openads-lab-diagram.svg)
 
-## Documentation
+## Repositories
+
+> 🔗: Repository is not hosted in the [openads-project](github.com/openads-project/) GitHub organization
+
+### Documentation
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
 | [openads-project.github.io](https://github.com/openads-project/openads-project.github.io) | [**Documentation of the OpenADS ecosystem**](https://openads-project.github.io), including automated driving software stack, simulation and development toolchain. | 🚧 Under Construction |
 | [tutorial-itsc-26](https://github.com/openads-project/tutorial-itsc-26) | [Website](https://openads-project.github.io/tutorial-itsc-26/) for OpenADS tutorial on IEEE ITSC 2026 in Naples, Italy. | ✅ Active |
 
-## OpenADStack - The Automated Driving Stack
+### OpenADSuite - The Development Suite
+
+| Repository | Description | Status |
+| ---------- | ----------- | ------ |
+| [rviz-monitoring]() | Monitoring and visualization using [RViz](https://github.com/ros2/rviz) with support for message definitions used in OpenADS. | 🚧 Under Construction |
+| [lichtblick-monitoring]() | Monitoring and visualization using [Lichtblick](https://github.com/lichtblick-suite/lichtblick) with support for message definitions used in OpenADS. | 📋 Planned |
+| [openads_demo_module](https://github.com/openads-project/openads_demo_module) | Template for new OpenADS modules including OpenADSuite development environment and CI/CD workflows | ✅ Active |
+| [openads-dev-environment](https://github.com/openads-project/openads-dev-environment) | Common development environment for OpenADS modules | ✅ Active |
+| [docker-ros](https://github.com/ika-rwth-aachen/docker-ros) 🔗 | docker-ros automatically builds development and deployment Docker images for your ROS-based repositories. | ✅ Active |
+| [docker-ros-ml-images](https://github.com/ika-rwth-aachen/docker-ros-ml-images) 🔗 | Machine Learning-Enabled ROS Docker Images. | ✅ Active |
+| [ros2-pkg-create](https://github.com/ika-rwth-aachen/ros2-pkg-create) 🔗 | Powerful ROS 2 Package Generator. | ✅ Active |
+| [perception_interfaces](https://github.com/ika-rwth-aachen/perception_interfaces) 🔗 | ROS packages with common messages and tools relating to the perception task in automated driving and C-ITS. | ✅ Active |
+| [planning_interfaces](https://github.com/ika-rwth-aachen/planning_interfaces) 🔗 | ROS packages with common messages and tools relating to the behavior planning task of automated vehicles. | ✅ Active |
+| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) 🔗 | ROS 2 Support for ETSI ITS Messages for V2X Communication. | ✅ Active |
+
+### OpenADStack - The Automated Driving Stack
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
 | [openadstack](https://github.com/openads-project/openadstack) | Full stack compositions for different automated driving use cases | 🚧 Under Construction |
 
-### Perception
+#### Perception
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
@@ -28,14 +47,14 @@
 | [autoware_probabilistic_occupancy_grid_map]() | GPU-accelerated whitebox (non-AI) occupancy grid mapping from lidar point clouds, could be part of a (non-AI) safety layer. | 📋 Planned |
 | [traffic_light_detection]() | Detector for location and state of traffic lights using YOLOv5. | 📋 Planned |
 
-### Understanding
+#### Understanding
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
 | [object_fusion]() | (Late) fusion of 3D object lists. | 📋 Planned |
 | [lanelet2_object_list_prediction]() | Dynamic object prediction based on Lanelet2 map information and kinematic models. | 📋 Planned |
 
-### Planning
+#### Planning
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
@@ -48,7 +67,7 @@
 | [trajectory_optimization](https://github.com/openads-project/trajectory_optimization) | ROS 2 Trajectory Optimization for Automated Driving based on an Optimal Control Problem (OCP). | ✅ Active |
 | [ackermann_trajectory_control](https://github.com/openads-project/ackermann_trajectory_control) | Cascaded ROS 2 PID Controller for Ackermann steered vehicles. | 🚧 Under Construction |
 
-## OpenADSim - The Simulation Environment
+### OpenADSim - The Simulation Environment
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
@@ -60,23 +79,6 @@
 | [carla_converter]() | Conversion of CARLA-specific simulation outputs into OpenADS-compatible ego, object, map, and V2X topics. | 🚧 Under Construction |
 | [sumo_converter]() | Conversion of SUMO traffic simulation data into OpenADS-compatible ego, object, and map topics. | 🚧 Under Construction |
 | [simulation_adapter]() | Backend-independent adapter that normalizes simulator outputs and connects OpenADStack. | 🚧 Under Construction |
-
-## OpenADSuite - The Development Suite
-
-| Repository | Description | Status |
-| ---------- | ----------- | ------ |
-| [rviz-monitoring]() | Monitoring and visualization using [RViz](https://github.com/ros2/rviz) with support for message definitions used in OpenADS. | 🚧 Under Construction |
-| [lichtblick-monitoring]() | Monitoring and visualization using [Lichtblick](https://github.com/lichtblick-suite/lichtblick) with support for message definitions used in OpenADS. | 📋 Planned |
-| [openads_demo_module](https://github.com/openads-project/openads_demo_module) | OpenADS ROS 2 Demo Repository | ✅ Active |
-| [openads-dev-environment](https://github.com/openads-project/openads-dev-environment) | Common development environment for OpenADS modules | ✅ Active |
-| [docker-ros](https://github.com/ika-rwth-aachen/docker-ros) 🔗 | docker-ros automatically builds development and deployment Docker images for your ROS-based repositories. | ✅ Active |
-| [docker-ros-ml-images](https://github.com/ika-rwth-aachen/docker-ros-ml-images) 🔗 | Machine Learning-Enabled ROS Docker Images. | ✅ Active |
-| [ros2-pkg-create](https://github.com/ika-rwth-aachen/ros2-pkg-create) 🔗 | Powerful ROS 2 Package Generator. | ✅ Active |
-| [perception_interfaces](https://github.com/ika-rwth-aachen/perception_interfaces) 🔗 | ROS packages with common messages and tools relating to the perception task in automated driving and C-ITS. | ✅ Active |
-| [planning_interfaces](https://github.com/ika-rwth-aachen/planning_interfaces) 🔗 | ROS packages with common messages and tools relating to the behavior planning task of automated vehicles. | ✅ Active |
-| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) 🔗 | ROS 2 Support for ETSI ITS Messages for V2X Communication. | ✅ Active |
-
-> 🔗: Repository is not hosted in the [openads-project](github.com/openads-project/) GitHub organization
 
 ## Contribution
 
