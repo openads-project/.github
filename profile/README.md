@@ -2,6 +2,10 @@
 
 > 🚧 Warning: This project is currently under construction.
 
+### Collaborative development and benchmark-driven evaluation
+
+OpenADS explores how distributed partners can build compatible automated driving services and use benchmarks to identify stronger system compositions. The work is embedded in Germany's [Ecosystem Mobility 4.0](https://ecosystemmobility40.de/en/home/) initiative and aligned with the [European Connected and Autonomous Vehicle Alliance](https://digital-strategy.ec.europa.eu/en/policies/vehicle-alliance) . 
+
 ![OpenADS diagram](../assets/openads-lab-diagram.svg)
 
 ## Repositories
