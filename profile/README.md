@@ -2,6 +2,14 @@
 
 > 🚧 Warning: This project is currently under construction.
 
+<p align="center">
+  <a href="https://github.com/openads-project"><img src="https://img.shields.io/badge/OpenADS-f5ff01"/></a>
+  <a href="https://www.ros.org"><img src="https://img.shields.io/badge/ROS 2-jazzy-22314e"/></a>
+  <a href="https://openads-project.github.io"><img src="https://img.shields.io/badge/Documentation-brightgreen"/></a>
+  <a href="https://github.com/openads-project/openadstack/releases/latest"><img src="https://img.shields.io/github/v/release/openads-project/openadstack"/></a>
+  <a href="https://github.com/openads-project/openadsim/releases/latest"><img src="https://img.shields.io/github/v/release/openads-project/openadsim"/></a>
+</p>
+
 ### Collaborative development and benchmark-driven evaluation
 
 OpenADS explores how distributed partners can build compatible automated driving services and use benchmarks to identify stronger system compositions. The work is embedded in Germany's [Ecosystem Mobility 4.0](https://ecosystemmobility40.de/en/home/) initiative and aligned with the goals of the [European Connected and Autonomous Vehicle Alliance](https://digital-strategy.ec.europa.eu/en/policies/vehicle-alliance).
