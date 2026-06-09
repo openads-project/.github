@@ -79,7 +79,7 @@ OpenADS explores how distributed partners can build compatible automated driving
 | [simple_planner]() | Plans a reference trajectory based on route and Lanelet2 map. | 🚧 Under Construction |
 | [planning_orchestrator]() | Switches between different planning modules, e.g. rule-based vs. AI planner. | 📋 Planned |
 | [trajectory_optimization](https://github.com/openads-project/trajectory_optimization) | ROS 2 Trajectory Optimization for Automated Driving based on an Optimal Control Problem (OCP). | ✅ Active |
-| [ackermann_trajectory_control](https://github.com/openads-project/ackermann_trajectory_control) | Cascaded ROS 2 PID Controller for Ackermann steered vehicles. | 🚧 Under Construction |
+| [ackermann_trajectory_control](https://github.com/openads-project/ackermann_trajectory_control) | Cascaded ROS 2 PID Controller for Ackermann steered vehicles. | ✅ Active |
 
 ### OpenADSim - The Simulation Environment
 
