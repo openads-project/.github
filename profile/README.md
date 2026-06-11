@@ -1,14 +1,17 @@
 # OpenADS - Open Automated Driving Systems
 
-> 🚧 Warning: This project is currently under construction.
-
 <p align="center">
   <a href="https://github.com/openads-project"><img src="https://img.shields.io/badge/OpenADS-f5ff01"/></a>
   <a href="https://www.ros.org"><img src="https://img.shields.io/badge/ROS 2-jazzy-22314e"/></a>
-  <a href="https://openads-project.github.io"><img src="https://img.shields.io/badge/Documentation-brightgreen"/></a>
-  <a href="https://github.com/openads-project/openadstack/releases/latest"><img src="https://img.shields.io/github/v/release/openads-project/openadstack"/></a>
-  <a href="https://github.com/openads-project/openadsim/releases/latest"><img src="https://img.shields.io/github/v/release/openads-project/openadsim"/></a>
+  <a href="https://openads-project.github.io"><img src="https://img.shields.io/badge/Documentation-OpenADS-brightgreen"/></a>
 </p>
+
+> 🚧 Warning: This project is currently under construction.
+
+| Main Repository | Release | Documentation |
+| --------------- | ------- | ------------- |
+| [OpenADStack](https://github.com/openads-project/openadstack) 🚧 | [![](https://img.shields.io/github/v/release/openads-project/openadstack)](https://github.com/openads-project/openadstack/releases/latest) | [![](https://img.shields.io/badge/Documentation-OpenADStack-brightgreen)](https://openads-project.github.io/openadstack) |
+| [OpenADSim](https://github.com/openads-project/openadsim) 🚧 | [![](https://img.shields.io/github/v/release/openads-project/openadsim)](https://github.com/openads-project/openadsim/releases/latest) | [![](https://img.shields.io/badge/Documentation-OpenADSim-brightgreen)](https://openads-project.github.io/openadsim) |
 
 ### Collaborative development and benchmark-driven evaluation
 
