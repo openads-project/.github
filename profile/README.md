@@ -32,10 +32,10 @@ OpenADS explores how distributed partners can build compatible automated driving
 
 ### OpenADSuite - The Development Suite
 
+#### Development
+
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| [monitoring](https://github.com/openads-project/monitoring) | Monitoring and visualization using [RViz](https://github.com/ros2/rviz) with support for message definitions used in OpenADS. | 🚧 Under Construction |
-| [lichtblick]() | Web-based visualization using [Lichtblick](https://github.com/lichtblick-suite/lichtblick) with support for message definitions used in OpenADS. | 📋 Release Planned |
 | [openads_demo_module](https://github.com/openads-project/openads_demo_module) | Template for new OpenADS modules including OpenADSuite development environment and CI/CD workflows | ✅ Active |
 | [openads-dev-environment](https://github.com/openads-project/openads-dev-environment) | Common development environment for OpenADS modules | ✅ Active |
 | [docker-ros](https://github.com/ika-rwth-aachen/docker-ros) 🔗 | docker-ros automatically builds development and deployment Docker images for your ROS-based repositories. | ✅ Active |
@@ -44,6 +44,22 @@ OpenADS explores how distributed partners can build compatible automated driving
 | [perception_interfaces](https://github.com/ika-rwth-aachen/perception_interfaces) 🔗 | ROS packages with common messages and tools relating to the perception task in automated driving and C-ITS. | ✅ Active |
 | [planning_interfaces](https://github.com/ika-rwth-aachen/planning_interfaces) 🔗 | ROS packages with common messages and tools relating to the behavior planning task of automated vehicles. | ✅ Active |
 | [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) 🔗 | ROS 2 Support for ETSI ITS Messages for V2X Communication. | ✅ Active |
+
+#### Monitoring
+
+| Repository | Description | Status |
+| ---------- | ----------- | ------ |
+| [monitoring](https://github.com/openads-project/monitoring) | Monitoring and visualization using [RViz](https://github.com/ros2/rviz) with support for message definitions used in OpenADS. | 🚧 Under Construction |
+| [lichtblick]() | Web-based visualization using [Lichtblick](https://github.com/lichtblick-suite/lichtblick) with support for message definitions used in OpenADS. | 📋 Release Planned |
+
+#### Interfaces
+
+| Repository | Description | Status |
+| ---------- | ----------- | ------ |
+| [perception_interfaces](https://github.com/ika-rwth-aachen/perception_interfaces) 🔗 | ROS packages with common messages and tools relating to the perception task in automated driving and C-ITS. | ✅ Active |
+| [planning_interfaces](https://github.com/ika-rwth-aachen/planning_interfaces) 🔗 | ROS packages with common messages and tools relating to the behavior planning task of automated vehicles. | ✅ Active |
+| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) 🔗 | ROS 2 Support for ETSI ITS Messages for V2X Communication. | ✅ Active |
+| [omega-prime](https://github.com/ika-rwth-aachen/omega-prime) 🔗 | Data Model, Data Format and Python Library for Handling Ground Truth Traffic Data. | ✅ Active |
 
 ### OpenADStack - The Automated Driving Stack
 
