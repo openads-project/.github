@@ -90,8 +90,8 @@ OpenADS explores how distributed partners can build compatible automated driving
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
 | [ego_state_estimation]() | Dynamics state estimation for ego vehicle based on GNSS and IMU data. | 📋 Release Planned |
-| [lanelet2_map_server](https://github.com/openads-project/lanelet2_map_server) | ROS 2 HD Map Server for Automated Driving based on Lanelet2. | 🚧 Under Construction |
-| [lanelet2_route_planning](https://github.com/openads-project/lanelet2_route_planning) | ROS 2 Route Planning for Automated Driving based on Lanelet2. | 🚧 Under Construction |
+| [lanelet2_map_server](https://github.com/openads-project/lanelet2_map_server) | ROS 2 HD Map Server for Automated Driving based on Lanelet2. | ✅ Active |
+| [lanelet2_route_planning](https://github.com/openads-project/lanelet2_route_planning) | ROS 2 Route Planning for Automated Driving based on Lanelet2. | ✅ Active |
 | [dynamic_map_enrichment]() | Enriches route information with regulatory elements (e.g. traffic light states). | 📋 Release Planned |
 | [simple_planner]() | Plans a reference trajectory based on route and Lanelet2 map. | 🚧 Under Construction |
 | [planning_orchestrator]() | Switches between different planning modules, e.g. rule-based vs. AI planner. | 📋 Release Planned |
