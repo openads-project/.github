@@ -37,13 +37,11 @@ OpenADS explores how distributed partners can build compatible automated driving
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
 | [openads_demo_module](https://github.com/openads-project/openads_demo_module) | Template for new OpenADS modules including OpenADSuite development environment and CI/CD workflows | ✅ Active |
+| [ros2-pkg-create](https://github.com/ika-rwth-aachen/ros2-pkg-create) 🔗 | Powerful ROS 2 Package Generator. | ✅ Active |
 | [openads-dev-environment](https://github.com/openads-project/openads-dev-environment) | Common development environment for OpenADS modules | ✅ Active |
 | [docker-ros](https://github.com/ika-rwth-aachen/docker-ros) 🔗 | docker-ros automatically builds development and deployment Docker images for your ROS-based repositories. | ✅ Active |
 | [docker-ros-ml-images](https://github.com/ika-rwth-aachen/docker-ros-ml-images) 🔗 | Machine Learning-Enabled ROS Docker Images. | ✅ Active |
-| [ros2-pkg-create](https://github.com/ika-rwth-aachen/ros2-pkg-create) 🔗 | Powerful ROS 2 Package Generator. | ✅ Active |
-| [perception_interfaces](https://github.com/ika-rwth-aachen/perception_interfaces) 🔗 | ROS packages with common messages and tools relating to the perception task in automated driving and C-ITS. | ✅ Active |
-| [planning_interfaces](https://github.com/ika-rwth-aachen/planning_interfaces) 🔗 | ROS packages with common messages and tools relating to the behavior planning task of automated vehicles. | ✅ Active |
-| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) 🔗 | ROS 2 Support for ETSI ITS Messages for V2X Communication. | ✅ Active |
+| [docker-run](https://github.com/ika-rwth-aachen/docker-run) 🔗 | CLI tool for simplified interaction with Docker images. | ✅ Active |
 
 #### Monitoring
 
