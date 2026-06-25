@@ -47,7 +47,7 @@ OpenADS explores how distributed partners can build compatible automated driving
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| [monitoring](https://github.com/openads-project/monitoring) | Monitoring and visualization using [RViz](https://github.com/ros2/rviz) with support for message definitions used in OpenADS. | 🚧 Under Construction |
+| [monitoring](https://github.com/openads-project/monitoring) | Monitoring and visualization using [RViz](https://github.com/ros2/rviz) with support for message definitions used in OpenADS. | ✅ Active |
 | [lichtblick]() | Web-based visualization using [Lichtblick](https://github.com/lichtblick-suite/lichtblick) with support for message definitions used in OpenADS. | 📋 Release Planned |
 
 #### Interfaces
