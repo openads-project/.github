@@ -71,7 +71,7 @@ OpenADS explores how distributed partners can build compatible automated driving
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| [point_cloud_fusion]() | GPU-accelerated (early) fusion of point clouds from multiple (lidar) sensors. | 📋 Release Planned |
+| [point_cloud_fusion](https://github.com/openads-project/point_cloud_fusion) | GPU-accelerated (early) fusion of point clouds from multiple (lidar) sensors. | ✅ Active |
 | [point_cloud_object_detection]() | ML-based 3D object detection in lidar point clouds, which is trained, e.g., on the DrivIng dataset. | 📋 Release Planned |
 | [point_cloud_object_clustring]() | clusters object points (e.g. vehicles/pedestrians) for visualization in HMI. | 📋 Release Planned |
 | [autoware_ground_segmentation_cuda]() | GPU-accelerated whitebox (non-AI) ground filter for lidar point clouds, could be part of a (non-AI) safety layer. | 📋 Release Planned |
