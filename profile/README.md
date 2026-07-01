@@ -82,8 +82,9 @@ OpenADS explores how distributed partners can build compatible automated driving
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| [object_fusion]() | (Late) fusion of 3D object lists. | 📋 Release Planned |
+| [simple_object_tracking]() | (Late) fusion of 3D object lists. | 📋 Release Planned |
 | [lanelet2_object_list_prediction]() | Dynamic object prediction based on Lanelet2 map information and kinematic models. | 📋 Release Planned |
+| [dynamic_map_enrichment]() | Enriches route information with regulatory elements (e.g. traffic light states). | 📋 Release Planned |
 
 #### Planning
 
@@ -92,7 +93,6 @@ OpenADS explores how distributed partners can build compatible automated driving
 | [ego_state_estimation]() | Dynamics state estimation for ego vehicle based on GNSS and IMU data. | 📋 Release Planned |
 | [lanelet2_map_server](https://github.com/openads-project/lanelet2_map_server) | ROS 2 HD Map Server for Automated Driving based on Lanelet2. | ✅ Active |
 | [lanelet2_route_planning](https://github.com/openads-project/lanelet2_route_planning) | ROS 2 Route Planning for Automated Driving based on Lanelet2. | ✅ Active |
-| [dynamic_map_enrichment]() | Enriches route information with regulatory elements (e.g. traffic light states). | 📋 Release Planned |
 | [simple_planner]() | Plans a reference trajectory based on route and Lanelet2 map. | 🚧 Under Construction |
 | [planning_orchestrator]() | Switches between different planning modules, e.g. rule-based vs. AI planner. | 📋 Release Planned |
 | [trajectory_optimization](https://github.com/openads-project/trajectory_optimization) | ROS 2 Trajectory Optimization for Automated Driving based on an Optimal Control Problem (OCP). | ✅ Active |
@@ -103,13 +103,13 @@ OpenADS explores how distributed partners can build compatible automated driving
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
 | [openadsim]() | Simulation environment for running and testing OpenADStack with CARLA or SUMO. | 🚧 Under Construction |
-| [carla-simulator]() | High-fidelity rendering and physics backend based on CARLA for closed-loop sensor and vehicle simulation. | 🚧 Under Construction |
-| [carla-ros-bridge]() | ROS 2 connection to CARLA topics, services, exposing simulator state and controls to the OpenADS ecosystem. | 🚧 Under Construction |
-| [carla-scenario-runner]() | Execution of OpenSCENARIO scenarios in CARLA for repeatable scenario-based simulation and testing. | 🚧 Under Construction |
-| [ros_middleware_bridge]() | DDS-to-Zenoh bridge that connects CARLA native ROS communication with the OpenADStack middleware. | 🚧 Under Construction |
-| [carla_converter]() | Conversion of CARLA-specific simulation outputs into OpenADS-compatible ego, object, map, and V2X topics. | 🚧 Under Construction |
+| [carla-simulator](https://github.com/openads-project/carla-simulator) | High-fidelity rendering and physics backend based on CARLA for closed-loop sensor and vehicle simulation. | ✅ Active |
+| [carla-ros-bridge](https://github.com/openads-project/carla-ros-bridge) | ROS 2 connection to CARLA topics, services, exposing simulator state and controls to the OpenADS ecosystem. | ✅ Active |
+| [carla-scenario-runner](https://github.com/openads-project/carla-scenario-runner) | Execution of OpenSCENARIO scenarios in CARLA for repeatable scenario-based simulation and testing. | ✅ Active |
+| [ros_middleware_bridge](https://github.com/openads-project/ros_middleware_bridge) | DDS-to-Zenoh bridge that connects CARLA native ROS communication with the OpenADStack middleware. | ✅ Active |
+| [carla_converter](https://github.com/openads-project/carla_converter) | Conversion of CARLA-specific simulation outputs into OpenADS-compatible ego, object, map, and V2X topics. | ✅ Active |
 | [sumo_converter]() | Conversion of SUMO traffic simulation data into OpenADS-compatible ego, object, and map topics. | 🚧 Under Construction |
-| [simulation_adapter]() | Backend-independent adapter that normalizes simulator outputs and connects OpenADStack. | 🚧 Under Construction |
+| [simulation_adapter](https://github.com/openads-project/simulation_adapter) | Backend-independent adapter that normalizes simulator outputs and connects OpenADStack. | ✅ Active |
 
 ### OpenADSafety - The Verification & Validation Framework
 
