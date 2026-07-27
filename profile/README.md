@@ -1,8 +1,9 @@
 # OpenADS – Open Automated Driving Systems
 
-> 🚧 Warning: This organization is currently under construction.
+> [!WARNING]
+> 🚧 This organization is currently under construction.
 
-> [!NOTE]
+> [!TIP]
 > Have a look at the [**OpenADS Documentation**](https://openads-project.github.io) for a quick introduction!
 
 ### Collaborative development of Automated Driving Systems
