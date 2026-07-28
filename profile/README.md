@@ -29,6 +29,6 @@ Have a look at our current [**backlog**](https://github.com/orgs/openads-project
 
 ## Events
 
-| Date | Event |
-| ---- | ----- |
-| 15 September 2026 | [OpenADS Tutorial](https://openads-project.github.io/tutorial-itsc-26/) at the [IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://ieee-itsc.org/2026/) |
+| Date | Place | Event |
+| ---- | ----- | ----- |
+| 15 September 2026 | Naples, Italy | [OpenADS Tutorial](https://openads-project.github.io/tutorial-itsc-26/) at the [IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://ieee-itsc.org/2026/) |
