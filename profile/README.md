@@ -1,14 +1,11 @@
 # OpenADS – Open Automated Driving Systems
 
-> [!WARNING]
-> 🚧 This organization is currently under construction.
+> [!TIP]
+> ### Have a look at the [**OpenADS Documentation**](https://openads-project.github.io) to get started right away!
 
-### Collaborative development of Automated Driving Systems
+#### Collaborative development of Automated Driving Systems
 
 OpenADS explores how distributed partners can build compatible automated driving services and use benchmarks to identify stronger system compositions. The work is embedded in Germany's [Ecosystem Mobility 4.0](https://ecosystemmobility40.de/en/home/) initiative and aligned with the goals of the [European Connected and Autonomous Vehicle Alliance](https://digital-strategy.ec.europa.eu/en/policies/vehicle-alliance).
-
-> [!TIP]
-> Have a look at the [**OpenADS Documentation**](https://openads-project.github.io) for a quick introduction!
 
 ## The OpenADS Ecosystem
 
