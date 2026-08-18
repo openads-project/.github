@@ -1,7 +1,7 @@
 # OpenADS – Open Automated Driving Systems
 
 > [!TIP]
-> ### Have a look at the [**OpenADS Documentation**](https://openads-project.github.io) to get started right away!
+> ### Take a look at the [**OpenADS Documentation**](https://openads-project.github.io) to get started right away!
 
 #### Collaborative development of Automated Driving Systems
 
