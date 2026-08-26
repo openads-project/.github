@@ -9,7 +9,7 @@ OpenADS explores how distributed partners can build compatible automated driving
 
 ## The OpenADS Ecosystem
 
-![OpenADS diagram](../assets/openads-diagram.svg)
+![OpenADS diagram](https://raw.githubusercontent.com/openads-project/openads-project.github.io/refs/heads/main/docs/assets/openads-diagram.svg)
 
 | Repository | Description | Release | Documentation |
 | ---------- | ----------- | ------- | ------------- |
