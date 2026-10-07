@@ -2,6 +2,7 @@
 
 > [!TIP]
 > ### Take a look at the [**OpenADS Documentation**](https://openads-project.github.io) to get started right away!
+> The [project backlog](https://github.com/orgs/openads-project/projects/5) shows what we are currently working on and what is planned next.
 
 #### Collaborative development of Automated Driving Systems
 
