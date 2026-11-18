@@ -68,14 +68,6 @@ Using OpenADS in your own vehicle, robot or test field? [Add your integration](h
 
 OpenADStack follows a *Doer/Checker/Fallback* pattern. The current release combines learned perception with a rule-based planner. Next, a learned planner will act as *Doer* while the rule-based planner remains the safety *Checker*, supported by an MLOps process for continual improvement (planned until the end of 2026). After that, an end-to-end driving model is planned as *Doer* (until the end of 2027). Details are in the [OpenADStack README](https://github.com/openads-project/openadstack#-architecture).
 
-## Research and Citation
-
-- **karl. – A Research Vehicle for Automated and Connected Driving** (2026) – [IEEE Xplore](https://ieeexplore.ieee.org/document/11625211), [arXiv](https://arxiv.org/abs/2602.08842)
-- **Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment** (2026) – [arXiv](https://arxiv.org/abs/2608.12198)
-- **MLOps architecture for automated driving** – [arXiv](https://arxiv.org/abs/2605.12719)
-
-If OpenADS helps your research, please cite the respective repository via its `CITATION.cff` file ("Cite this repository" in the repository sidebar).
-
 ## Get Involved
 
 OpenADS explores how distributed partners can build compatible automated driving services and use benchmarks to identify stronger system compositions. The work is embedded in Germany's [Ecosystem Mobility 4.0](https://ecosystemmobility40.de/en/home/) initiative and aligned with the goals of the [European Connected and Autonomous Vehicle Alliance (ECAVA)](https://digital-strategy.ec.europa.eu/en/policies/vehicle-alliance).
