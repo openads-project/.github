@@ -6,7 +6,7 @@
 
 # OpenADS – Open Automated Driving Systems
 
-**OpenADS is an open-source ecosystem for connected and autonomous driving built on [ROS 2](https://www.ros.org/).** It provides a complete reference software stack for SAE Level 4 automated driving, simulation with [CARLA](https://carla.org/) and [SUMO](https://eclipse.dev/sumo/), developer tools, and benchmarks for verification and validation – released under the Apache 2.0 license. OpenADS runs on real research vehicles and road infrastructure. It was initiated by the [Institute for Automotive Engineering (ika) at RWTH Aachen University](https://www.ika.rwth-aachen.de/en/) and is open to partners from research and industry.
+**OpenADS is an open-source ecosystem for connected and autonomous driving built on [ROS 2](https://www.ros.org/).** It provides a complete reference software stack for SAE Level 4 automated driving, simulation with [CARLA](https://carla.org/) and [SUMO](https://eclipse.dev/sumo/), developer tools, and benchmarks for verification and validation – released under the Apache 2.0 license. OpenADS runs on real research vehicles and road infrastructure. It is open to partners from research and industry (see [🤝 Support](https://openads-project.github.io/support/support.html)).
 
 **[📖 Documentation](https://openads-project.github.io)** · **[🚀 Quick Start](https://openads-project.github.io/start/start.html)** · **[🎬 Video](https://www.youtube.com/watch?v=B0Lnu-1w9KE)** · **[📋 Backlog](https://github.com/orgs/openads-project/projects/5)** · **[🤝 Support](https://openads-project.github.io/support/support.html)**
 
